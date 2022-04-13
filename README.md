@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 **Books I am reading**
 
-- 📗 [Empowered: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered?from_search=true&from_srp=true&qid=GPncVuYFBx&rank=12) by Marty Cagan and Chris Jones
 - 📗 [Range](https://www.goodreads.com/book/show/41795733-range?from_search=true&from_srp=true&qid=mXrx3de3D4&rank=1) by David Epstein
-- 📗 [The Inner Game of Tennis](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis?from_search=true&from_srp=true&qid=TGNWoPFiY4&rank=1) by W. Timothy Gallwey
+- 📗 [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0?ac=1&from_search=true&qid=AKpkk4mvnJ&rank=1) by Max Tegmark
+- 📗 [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit?ac=1&from_search=true&qid=JQaoPC7hny&rank=1) by Michael Bungay Stanier
