@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 **Did you know?**
 - 🎓 I got a PhD and these are [my papers](https://dblp.org/pid/131/3507.html)
-- 🧑‍💻 I have had different roles (software engineer ⇢ data & applied scientist ⇢ data tech lead ⇢ tech PM ⇢ solutions architect ⇢ ?), data 2x
+- 🧑‍💻 I have had different roles (software engineer ⇢ data & applied scientist ⇢ data tech lead ⇢ tech PM ⇢ solutions architect ⇢ ?)
 - 🟢 I build things and help others do the same
 - 🚴 Cycling, tennis and hiking keep my body and mind balanced
 - 📖 Reading makes me think while keeping me curious
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
-- 🏔️ The journey is the reward
 
 **Books I am reading / read this year**
 
