@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **Books I am reading / read this year**
 
 - 📙 [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhuo
-- 📙 [Range](https://www.goodreads.com/book/show/41795733-range) by David Epstein
+- 📗 [Range](https://www.goodreads.com/book/show/41795733-range) by David Epstein
 - 📗 [Just Keep Buying: Proven Ways to Save Money and Build Your Wealth](https://www.goodreads.com/book/show/59046778-just-keep-buying) by Nick Maggiulli
 - 📗 [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) by Max Tegmark
 - 📗 [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit) by Michael Bungay Stanier
