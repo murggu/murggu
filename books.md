@@ -1,4 +1,9 @@
-**Books I am reading / read this year**
+**2023**
+
+- 📙 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ref=nav_sb_ss_1_8) by Dale Carnegie
+- 📗 [Libertad Inmobiliaria](https://www.goodreads.com/book/show/63365244-libertad-inmobiliaria?from_search=true&from_srp=true&qid=njAiLsGNyn&rank=1) by Carlos Galán
+
+**2022**
 
 - 📗 [El Pequeño Libro de la Filosofía Estoica](https://www.amazon.es/El-peque%C3%B1o-libro-filosof%C3%ADa-estoica/dp/8413441684/ref=sr_1_1?crid=LTT5J1EZ6R7E&keywords=el+peque%C3%B1o+libro+del+estoicismo) by Javier G. Recuenco and Guillermo de Haro
 - 📗 [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhuo
