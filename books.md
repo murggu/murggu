@@ -1,6 +1,6 @@
 **2023**
 
-- 📙 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ref=nav_sb_ss_1_8) by Dale Carnegie
+- 📗 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ref=nav_sb_ss_1_8) by Dale Carnegie
 - 📗 [Libertad Inmobiliaria](https://www.goodreads.com/book/show/63365244-libertad-inmobiliaria?from_search=true&from_srp=true&qid=njAiLsGNyn&rank=1) by Carlos Galán
 
 **2022**
