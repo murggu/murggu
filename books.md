@@ -1,5 +1,7 @@
 **2023**
 
+- 📙 [A Thousand Brains: A New Theory of Intelligence](https://www.goodreads.com/book/show/54503521-a-thousand-brains?ref=nav_sb_ss_1_14) by Jeff Hawkins
+- 📙 [The Knowledge-Creating Company](https://www.goodreads.com/en/book/show/619723) by Ikujiro Nonaka and Hirotaka Takeuchi
 - 📗 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?ref=nav_sb_ss_1_8) by Dale Carnegie
 - 📗 [Libertad Inmobiliaria](https://www.goodreads.com/book/show/63365244-libertad-inmobiliaria?from_search=true&from_srp=true&qid=njAiLsGNyn&rank=1) by Carlos Galán
 
