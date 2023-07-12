@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
 
 **Latest blogs**
-- [Creating Managed and External Spark Tables in Fabric Lakehouse](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
-- [Introducing Azure Data Labs](https://medium.com/microsoftazure/introducing-azure-data-labs-6aa2653d4051)
-- [Headless Lakehouse](https://medium.com/microsoftazure/headless-lakehouse-63b0a5d27068)
+- 📃 [Creating Managed and External Spark Tables in Fabric Lakehouse](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
+- 📃 [Introducing Azure Data Labs](https://medium.com/microsoftazure/introducing-azure-data-labs-6aa2653d4051)
+- 📃 [Headless Lakehouse](https://medium.com/microsoftazure/headless-lakehouse-63b0a5d27068)
