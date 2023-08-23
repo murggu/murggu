@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
 
 **Latest blogs**
+- 📃 [Deploying Microsoft Fabric Azure Capacity Using Terraform](https://murggu.medium.com/deploying-microsoft-fabric-azure-capacity-using-terraform-8dfcbab16f64)
 - 📃 [Getting Started with Azure Data Labs Terraform Modules](https://medium.com/microsoftazure/getting-started-with-azure-data-labs-terraform-modules-b220a4b6eb52)
 - 📃 [Migrating Spark Catalog to Fabric Lakehouse](https://medium.com/@murggu/migrating-spark-catalog-to-fabric-lakehouse-cc8c14f0f0e1)
 - 📃 [Creating Managed and External Spark Tables in Fabric Lakehouse](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
-- 📃 [Introducing Azure Data Labs](https://medium.com/microsoftazure/introducing-azure-data-labs-6aa2653d4051)
 - 📃 [Headless Lakehouse](https://medium.com/microsoftazure/headless-lakehouse-63b0a5d27068)
