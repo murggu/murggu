@@ -1,5 +1,5 @@
 **2024**
-- 📙 [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/book/show/125116554-same-as-ever) by Morgan Housel
+- 📗 [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/book/show/125116554-same-as-ever) by Morgan Housel
 
 **2023**
 
