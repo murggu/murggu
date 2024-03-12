@@ -1,4 +1,5 @@
 **2024**
+- 📙 [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma](https://www.goodreads.com/en/book/show/90590134) by Mustafa Suleyman and Michael Bhaskar
 - 📗 [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/book/show/125116554-same-as-ever) by Morgan Housel
 
 **2023**
