@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
 
 **Latest blogs**
+- 📃 [Using Managed Private Endpoints from Fabric Spark](https://medium.com/@murggu/using-managed-private-endpoints-from-fabric-spark-fb1311eaab33)
 - 📃 [Databricks and Fabric — writing to OneLake and ADLS Gen2](https://murggu.medium.com/databricks-and-fabric-writing-to-onelake-and-adls-gen2-671dcf24cf33)
 - 📃 [Using Streamlit with Microsoft Fabric](https://medium.com/@murggu/using-streamlit-with-fabric-ebb0998ccc7f)
 - 📃 [Creating Managed and External Spark Tables in Fabric Lakehouse](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
