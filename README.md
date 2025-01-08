@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 I have had different roles (software engineer ⇢ data & applied scientist ⇢ data tech lead ⇢ solutions architect ⇢ tech PM ⇢ ?)
 - 🟢 I build things and help others do the same
 - 🚴 Cycling, tennis and hiking keep my body and mind balanced
-- 📖 [Reading](https://github.com/murggu/murggu/blob/main/books.md) makes me think while keeping me curious
+- 📖 Reading makes me think while keeping me curious
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
 
 **Latest blogs**
