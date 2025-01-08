@@ -1,6 +1,11 @@
+**2025**
+- 📙 [The Missing README](https://www.goodreads.com/en/book/show/57271519-the-missing-readme) by Chris Riccomini and Dmitriy Ryaboy
+- 📙 [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy?ref=nav_sb_ss_1_25) by Richard P. Rumelt
+
 **2024**
-- 📙 [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma](https://www.goodreads.com/en/book/show/90590134) by Mustafa Suleyman and Michael Bhaskar
+- 📗 [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma](https://www.goodreads.com/en/book/show/90590134) by Mustafa Suleyman and Michael Bhaskar
 - 📗 [Same as Ever: A Guide to What Never Changes](https://www.goodreads.com/book/show/125116554-same-as-ever) by Morgan Housel
+- ...
 
 **2023**
 
