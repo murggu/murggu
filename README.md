@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
 
 **Latest blogs**
-- 📃 [Using Managed Private Endpoints from Fabric Spark](https://medium.com/@murggu/using-managed-private-endpoints-from-fabric-spark-fb1311eaab33)
-- 📃 [Databricks and Fabric — writing to OneLake and ADLS Gen2](https://murggu.medium.com/databricks-and-fabric-writing-to-onelake-and-adls-gen2-671dcf24cf33)
-- 📃 [Using Streamlit with Microsoft Fabric](https://medium.com/@murggu/using-streamlit-with-fabric-ebb0998ccc7f)
-- 📃 [Creating Managed and External Spark Tables in Fabric Lakehouse](https://medium.com/@murggu/creating-managed-and-external-spark-tables-in-fabric-lakehouse-ef6212e75e81)
+- 📃 [Quering OneLake Delta Lake Tables from DuckDB CLI](https://murggu.medium.com/quering-onelake-delta-lake-tables-from-duckdb-cli-b11f1cb3f631)
+- 📃 [Microsoft Fabric and Databricks Unity Catalog — unraveling the integration scenarios](https://murggu.medium.com/microsoft-fabric-and-databricks-unity-catalog-unraveling-the-integration-scenarios-a31a01297e76)
+- 📃 [Running Federated Queries from Unity Catalog on Microsoft Fabric SQL Endpoint](https://murggu.medium.com/running-federated-queries-from-unity-catalog-on-microsoft-fabric-sql-endpoint-1485da1d450b)
+- 📃 [Securing Inbound Connectivity — Setting up Private Link in Fabric with Terraform](https://murggu.medium.com/setting-up-private-link-in-fabric-with-terraform-e568fa562a50)
 - 📃 [Headless Lakehouse](https://medium.com/microsoftazure/headless-lakehouse-63b0a5d27068)
-- 📃 [Deploying Microsoft Fabric Azure Capacity Using Terraform](https://murggu.medium.com/deploying-microsoft-fabric-azure-capacity-using-terraform-8dfcbab16f64)
-
