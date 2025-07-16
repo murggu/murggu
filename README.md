@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build things and work at Microsoft managing the Fabric Spark/Data Science CAT team!
+I build things. Currently, I work at Microsoft managing the Fabric Spark/Data Science CAT team!
 
 **Did you know?**
 - 🎓 I got a PhD and these are [my papers](https://dblp.org/pid/131/3507.html)
