@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build things. Currently, I work at Microsoft managing the Fabric Spark/AI CAT team.
+I work at Microsoft and manage the Fabric Spark/AI CAT team.
+
+- [murggu.com](https://murggu.com)
+- [aka.ms/fabric-cli](https://aka.ms/fabric-cli)
 
 **Did you know?**
 - 🎓 I got a PhD and these are [my papers](https://dblp.org/pid/131/3507.html)
-- 🧑‍💻 I have had different roles (engineer ⇢ data scientist ⇢ tech lead ⇢ solutions architect ⇢ tech PM ⇢ manager ⇢ ?)
-- 🟢 I build things and help others do the same
+- 🟢 I build things and help others do the same. Last tool built: Fabric CLI
 - 🚴 Cycling, tennis and hiking keep my body and mind balanced
 - 📖 Reading makes me think while keeping me curious
 - 🐦 [I don´t tweet much](https://twitter.com/murggu)
