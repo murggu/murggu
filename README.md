@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work at Microsoft and manage the Fabric Spark/AI CAT team.
+Building something new. Former manager @Microsoft. Fabric CLI creator. Data systems. CS PhD
 
 - [murggu.com](https://murggu.com)
 - [aka.ms/fabric-cli](https://aka.ms/fabric-cli)
