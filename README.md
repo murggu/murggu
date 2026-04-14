@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Co-founder and CEO @muredata. Former manager @Microsoft. Fabric CLI creator. Data systems. CS PhD
-
-- [murggu.com](https://murggu.com)
-- [aka.ms/fabric-cli](https://aka.ms/fabric-cli)
+Co-founder and CEO [muredata..com](https://muredata.com). Former manager @Microsoft. [Fabric CLI](https://aka.ms/fabric-cli) creator. Data systems. CS PhD
 
 **Did you know?**
 - 🎓 I got a PhD and these are [my papers](https://dblp.org/pid/131/3507.html)
